@@ -18,7 +18,7 @@ RUN apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y && apt-get i
  sslscan \
  wordlists \
  pip \
- kali-linux-headless
+ kali-linux-arm
 
 
 # Clone git repos

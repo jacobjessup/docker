@@ -17,7 +17,8 @@ RUN apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y && apt-get i
  sqlmap \
  sslscan \
  wordlists \
- pip
+ pip \
+ kali-linux-arm
 
 
 # Clone git repos
